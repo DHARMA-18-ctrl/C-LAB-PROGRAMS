@@ -21,6 +21,6 @@ int main() {
     for(i = 0; i < n; i++) {
         printf("%d ", ptr2[i]);
     }
-
+printf("\n\n           -25331A05D3");
     return 0;
 }
