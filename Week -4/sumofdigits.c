@@ -15,6 +15,7 @@ int main()
     }
 
     printf("Sum of digits = %d", sum);
+    printf("\n\n           -25331A05D3");
 
     return 0;
 }
