@@ -20,6 +20,6 @@ int main()
     }
 
     printf("Sum of array elements = %d", sum);
-
+printf("\n\n           -25331A05D3");
     return 0;
 }
