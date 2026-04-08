@@ -17,7 +17,7 @@ int main()
     printf("Student ID = %d\n", s.id);
     printf("Marks = %.2f\n", s.marks);
     printf("\n\n             - 25331A05D3");
-
+printf("\n\n           -25331A05D3");
     
     return 0;
 }
