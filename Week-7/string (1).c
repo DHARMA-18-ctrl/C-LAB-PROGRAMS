@@ -22,7 +22,7 @@ int main()
     if(strcmp(str2, str3) == 0)
         printf("Strings are equal\n");
     else
-        printf("Strings are not equal\n");
-
+    { printf("Strings are not equal\n");}
+printf("\n\n           -25331A05D3");
     return 0;
 }
