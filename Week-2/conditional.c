@@ -10,6 +10,7 @@ int main()
     max = (a > b) ? ((a > c) ? a : c) : ((b > c) ? b : c);
 
     printf("Maximum number = %d", max);
+    printf("\n\n           -25331A05D3");
 
     return 0;
 }
