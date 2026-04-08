@@ -22,6 +22,6 @@ int main()
     printf("City = %s\n", s.addr.city);
     printf("Pincode = %d\n", s.addr.pincode);
     printf("\n\n             - 25331A05D3");
-
+printf("\n\n           -25331A05D3");
     return 0;
 }
